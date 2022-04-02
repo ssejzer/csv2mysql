@@ -2,7 +2,9 @@
 PHP script to import a CSV file to MySQL
 
 ## To load a CSV file, just run:
+```
 php csv2mysql.php filename.csv
+```
 
 ## MySQL table
 You can also add an extra timestamp column importDate to record the time when it was imported.
